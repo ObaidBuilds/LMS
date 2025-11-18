@@ -107,7 +107,7 @@ npm run dev
 <img src="public/login.png" alt="Login Page" width="400"/>
 
 ## _Teacher Dashboard_
-<img src="public/teacher-dashboard" alt="Login Page" width="400"/>
+<img src="public/teacher-dashboard.png" alt="Login Page" width="400"/>
 
 ## _Student Dashboard_
-<img src="public/student-dashboard" alt="Login Page" width="400"/>
+<img src="public/student-dashboard.png" alt="Login Page" width="400"/>
