@@ -113,4 +113,4 @@ npm run dev
 <img src="public/student-dashboard.png" alt="Student Page" width="400"/>
 
 ## _Result Page_
-<img src="public/resul-page.png" alt="Result Page" width="400"/>
+<img src="public/result-page.png" alt="Result Page" width="400"/>
